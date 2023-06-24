@@ -1,0 +1,19 @@
+{
+    "name": "chicofreitas/merchant",
+    "description": "This is a Laravel package for managing product movements inside stores.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chicofreitas\\Merchant\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chico Freitas Mint",
+            "email": "chicoo.freitas84@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
